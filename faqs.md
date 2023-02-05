@@ -4,11 +4,9 @@ title: FAQs
 ---
 
 ## How to stay in touch?
-You can sign up for our Slack Channel here: https://go.tufts.edu/tuftshackslack
-Please sign up with your Tufts email so you can login.
-
-Our e-list is tuftshackathon@elist.tufts.edu, so look out for emails from us if you have signed up.
-If you haven’t, you can sign up for the Tufts Hackathon here: https://go.tufts.edu/tuftshackathon 
+  - Sign up for our [Slack channel](https://go.tufts.edu/tuftshackslack)! Please sign up with your Tufts email so you can login.
+  - Sign up for the [our elist](https://elist.tufts.edu/sympa/info/tuftshackathon), again using your Tufts email. Look out for emails from tuftshackathon@elist.tufts.edu if you have already signed up.
+  - If you haven't already, sign up for the [Tufts Famine Forecasting Hackathon](https://tufts.qualtrics.com/jfe/form/SV_9slO6L8x646MX3M)!
 
 ## I signed up for the Famine Forecasting Hackathon, but I have a time conflict. Can I still attend? 
 Yes. We strongly recommend you attend as many days as you can, as your skills build over each Hackathon, but we welcome all attendees. 
