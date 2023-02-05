@@ -8,7 +8,7 @@ title: Venue
       <h1 class="inner-wrapper__title">Joyce Cummings Center</h1>
       <p>177 College Ave, Medford, Massachusetts 02155</p>
       <div class='embed-container'>
-        <iframe id='maponly' src='https://campusmaps.tufts.edu/medford/map-only.php' style='border:0'  width='600' height='450'></iframe>
+        <iframe id='maponly' src='http://campusmaps.tufts.edu/medford/#fid=m011' style='border:0'  width='600' height='450'></iframe>
         <script type="text/javascript">
           var hash = window.location.hash;
           var ifrm = document.getElementById("maponly"); 
