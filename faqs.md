@@ -22,7 +22,7 @@ You can just arrive, no need to prepare, however, be sure to check out the sugge
     - [Getting started with Python Data Analysis](https://tuftsdatalab.github.io/python-data-analysis/)
   - Geospatial
     - [Raster analysis & remote sensing data in Python](https://tuftsdatalab.github.io/python-raster/)
-    - [Geospatial Python analysis](https://github.com/tuftsdatalab/uep239-spatial-python/blob/main/uep239-spatial-python.ipynb)
+    - [Geospatial Python analysis](https://github.com/tuftsdatalab/uep239-data-analysis)
 
 ## Will the Famine Forecasting Hackathon be virtual? 
 We would suggest you attend in person, but you may attend remotely. We will break attendees up by remote and in person status, so be sure to let us know how you will attend.
