@@ -14,15 +14,15 @@ Yes. We strongly recommend you attend as many days as you can, as your skills bu
 ## How can I prepare for the hackathon?
 You can just arrive, no need to prepare, however, be sure to check out the suggested pre-trainings if you want to enhance your technical skills! 
   - R
-    - Intro R: https://tuftsdatalab.github.io/intro-r/
-    - Data visualization in R: https://tuftsdatalab.github.io/r-data-viz/
+    - [Intro R](https://tuftsdatalab.github.io/intro-r/)
+    - [Data visualization in R](https://tuftsdatalab.github.io/r-data-viz/)
   - Python
-    - Intro Python: https://tuftsdatalab.github.io/intro-python/
-    - Scientific Computing with Numpy: https://tuftsdatalab.github.io/intro-numpy/
-    - Getting started with Python Data Analysis: https://tuftsdatalab.github.io/python-data-analysis/
+    - [Intro to Python](https://tuftsdatalab.github.io/intro-python/)
+    - [Scientific Computing with Numpy](https://tuftsdatalab.github.io/intro-numpy/)
+    - [Getting started with Python Data Analysis](https://tuftsdatalab.github.io/python-data-analysis/)
   - Geospatial
-    - Raster analysis & remote sensing data in Python: https://tuftsdatalab.github.io/python-raster/
-    - Geospatial Python analysis: https://github.com/tuftsdatalab/uep239-spatial-python/blob/main/uep239-spatial-python.ipynb
+    - [Raster analysis & remote sensing data in Python](https://tuftsdatalab.github.io/python-raster/)
+    - [Geospatial Python analysis](https://github.com/tuftsdatalab/uep239-spatial-python/blob/main/uep239-spatial-python.ipynb)
 
 ## Will the Famine Forecasting Hackathon be virtual? 
 We would suggest you attend in person, but you may attend remotely. We will break attendees up by remote and in person status, so be sure to let us know how you will attend.
