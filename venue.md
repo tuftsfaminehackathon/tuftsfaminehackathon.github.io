@@ -17,11 +17,8 @@ title: Venue
       </div>
       <div class="non-haul-content">
         <div class="nav-minor">
-          <a class="mobile-only" href="map-only.php">View Fullscreen Version of Map</a>
+          <a class="mobile-only" href="https://campusmaps.tufts.edu/medford/map-only.php">View Fullscreen Version of Map</a>
           <label class="credit">By Tufts Digital Services / Office of Communications &amp; Marketing</label>
-          <ul>
-            <li class="feedback"><a href="mailto:digitalservices@tufts.edu">Feedback/Comments</a></li>
-          </ul>
         </div>
         <!-- / app minor menu -->
       </div>    
