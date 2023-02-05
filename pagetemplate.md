@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: PageTitle
+subtitle: PageSubtitle
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+This is a sentence. Here is a list:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- List 1
+- List 2
 
-What else do you need?
+# This is a level 1 heading
 
-### My story
+# This is a level 2 heading
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### This is a level 3 heading
+
+For more details on Markdown, click [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
