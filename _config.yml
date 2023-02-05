@@ -27,6 +27,7 @@ navbar-links:
   Contact: "contact"
   Resources:
     - FAQs: "faqs"
+    - Code of Conduct: "code-of-conduct"
 
 ################
 # --- Logo --- #
