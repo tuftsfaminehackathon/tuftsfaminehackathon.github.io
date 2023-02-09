@@ -8,6 +8,7 @@ title: Schedule
 - 2-3 pm: Introductions (Auditorium/Urdang 207)
 - 3-4 pm: Background on famine dynamics and forecasting (Auditorium/Urdang 207)
 - 4-5 pm: Team-building and report back (Rooms 160, 280, 302, 502)
+  - Upload one slide per team to [Day 1 presentation deck](https://docs.google.com/presentation/d/10JjWDtamu8N933W_JRGuDze-GMZuArHJRGAdKAcIP58/edit?usp=sharing)
 
 ### Day 2: Understanding Crisis Data
 
