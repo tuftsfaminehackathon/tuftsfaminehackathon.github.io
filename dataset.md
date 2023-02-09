@@ -3,8 +3,8 @@ layout: page
 title: Dataset
 ---
 
-| #[Dataset](https://github.com/tuftsfaminehackathon/tuftsfaminehackathon.github.io/raw/master/data/yemen/Yemen_NutritionIndicators_2018-2021.xlsx)  | #[Glossary](https://github.com/tuftsfaminehackathon/tuftsfaminehackathon.github.io/raw/master/data/Hackathon_Glossary_FFCF_v1.pdf) |
-| --- | --- |
+#          [Dataset](https://github.com/tuftsfaminehackathon/tuftsfaminehackathon.github.io/raw/master/data/yemen/Yemen_NutritionIndicators_2018-2021.xlsx)   |   
+# [Glossary](https://github.com/tuftsfaminehackathon/tuftsfaminehackathon.github.io/raw/master/data/Hackathon_Glossary_FFCF_v1.pdf)
 
 The dataset for Hackathon #1 derives from the UNICEF Nutrition Cluster in Yemen and contains monthly measures of various nutrition indicators. Detailed OCHA reports and monthly updates can be viewed [here](https://www.humanitarianresponse.info/en/operations/yemen/nutrition/documents/table). 
 
