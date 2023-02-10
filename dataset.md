@@ -5,7 +5,7 @@ title: Dataset
 
 #          [Dataset](https://github.com/tuftsfaminehackathon/tuftsfaminehackathon.github.io/raw/master/data/yemen/Yemen_NutritionIndicators_2018-2021.xlsx)      |       [Glossary](https://tuftsfaminehackathon.github.io/data/Hackathon_Glossary_FFCF_v1.pdf)
 
-The dataset for Hackathon #1 derives from the UNICEF Nutrition Cluster in Yemen and contains monthly measures of various nutrition indicators. Detailed OCHA reports and monthly updates can be viewed [here](https://www.humanitarianresponse.info/en/operations/yemen/nutrition/documents/table). 
+The dataset for Hackathon #1 derives from the UNICEF Nutrition Cluster in Yemen and contains monthly measures of various nutrition indicators. Yemen is one of the few countries with protracted, ongoing food crises for which OCHA publishes routine nutrition monitoring data. Detailed OCHA reports and monthly updates can be viewed [here](https://www.humanitarianresponse.info/en/operations/yemen/nutrition/documents/table). 
 
 The scientific exercises of the hackathon are:
 - Develop a timeline of events relevant to team focus and period of the Yemen crisis (2016-present)
