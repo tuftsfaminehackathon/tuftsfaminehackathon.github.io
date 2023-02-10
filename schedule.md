@@ -7,7 +7,6 @@ title: Schedule
 
 - 2-3 pm: Introductions (Auditorium/Urdang 207)
 - 3-4 pm: Background on famine dynamics and forecasting (Auditorium/Urdang 207)
-  - [Presentation Slides](https://tuftsfaminehackathon.github.io/slides/yemen/Day%201%20Slides.pdf)
 - 4-5 pm: Team-building and report back (Rooms 160, 280, 302, 502)
   - Upload one slide per team to [Day 1 presentation deck](https://docs.google.com/presentation/d/1ln4S8Y19E6sBbat20Jtdswl9ZPPwLtxlb4I_6b8RVqg/edit?usp=sharing)
 
