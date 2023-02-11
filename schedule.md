@@ -15,6 +15,7 @@ title: Schedule
 
 - 8:30-9 am: Coffee and hellos (Auditorium/Urdang 207)
 - 9-10 am: Panel on hackathon preparation and data collection in emergencies (Auditorium/Urdang 207)
+  - [Presentation slides](https://tuftsfaminehackathon.github.io/slides/yemen/Day%202%20Slides.pdf)
 - 10 am-12 pm: Hacking groups (Rooms 140, 160, 260, 265)
 - 12-1 pm: Report back
 - 1-2 pm: Lunch
