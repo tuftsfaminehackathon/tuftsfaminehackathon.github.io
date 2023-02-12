@@ -28,5 +28,5 @@ title: Schedule
  - 9-10 am: Panel on good data practice (Auditorium/Urdang 207)
    - [Presentation slides](https://tuftsfaminehackathon.github.io/slides/yemen/Day%203%20Slides.pdf)
  - 10 am-2 pm: Hacking groups and working lunch (Rooms 180, 302)
-  - Finalize [Day 3 presentation deck](https://docs.google.com/presentation/d/1I6_BD65KCcEcl2yWcJ1EIRNIP7dapnFfjRpdAQSQGCE/edit?usp=sharing)
+   - Finalize [Day 3 presentation deck](https://docs.google.com/presentation/d/1I6_BD65KCcEcl2yWcJ1EIRNIP7dapnFfjRpdAQSQGCE/edit?usp=sharing)
  - 2-3 pm: Group presentations and closing (Auditorium/Urdang 207)
