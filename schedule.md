@@ -14,11 +14,11 @@ title: Schedule
 ### Day 2: Understanding Crisis Data
 
 - 8:30-9 am: Coffee and hellos (Auditorium/Urdang 207)
-- 9-10 am: Panel on hackathon preparation and data collection in emergencies (Auditorium/Urdang 207)
+- 9-9:30 am: Overview of Goals and Instructions
+- 9:30-10 am: Panel on realities of ground data collection in emergencies
   - [Presentation slides](https://tuftsfaminehackathon.github.io/slides/yemen/Day%202%20Slides.pdf)
 - 10 am-12 pm: Hacking groups (Rooms 140, 160, 260, 265)
-- 12-1 pm: Report back
-- 1-2 pm: Lunch
+- 12-2 pm: Working Lunch and Project Review
 - 2-5 pm: Task assignments and hacking groups  (Rooms 140, 160, 260, 265)
   - Work on [Day 3 presentation deck](https://docs.google.com/presentation/d/1I6_BD65KCcEcl2yWcJ1EIRNIP7dapnFfjRpdAQSQGCE/edit?usp=sharing)
 
