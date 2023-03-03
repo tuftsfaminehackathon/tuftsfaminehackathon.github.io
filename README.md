@@ -4,4 +4,4 @@
 
 ## Hackathon 2
 ## March 10-12, 2023
-### Tufts University and remote
+### Tufts University
