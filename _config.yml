@@ -25,6 +25,8 @@ navbar-links:
   Dataset: "dataset"
   Venue: "venue"
   Contact: "contact"
+  Previous Hackathons:
+    - Yemen 2023: "yemen"
   Resources:
     - FAQs: "faqs"
     - Code of Conduct: "code-of-conduct"
