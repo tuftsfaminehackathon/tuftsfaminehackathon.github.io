@@ -7,9 +7,9 @@ Hackathon 1 was held on February 10 - 12, 2023 in hybrid format: in-person at th
 
 For more information about the Yemen hackathon, click below:
 
- <form action="http://tuftsfaminehackathon.github.io/yemen2023/dataset" method="get" target="_blank"><button type="submit">Dataset</button></form>
-<br></br>
- <form action="https://docs.google.com/spreadsheets/d/114NRhp4bCfV8YCBRsPd1SzIHijNu-_daIfLqja9U5G0/edit" method="get" target="_blank"><button type="submit">Teams</button></form>
- <br></br>
- <form action="http://tuftsfaminehackathon.github.io/yemen2023/schedule" method="get" target="_blank"><button type="submit">Schedule</button></form>
-<br></br>
+<button style="height:200px;width:200px" onclick="location.href='http://tuftsfaminehackathon.github.io/yemen2023/dataset'" type="button">Dataset</button>
+<br>
+<button style="height:200px;width:200px" onclick="location.href='https://docs.google.com/spreadsheets/d/114NRhp4bCfV8YCBRsPd1SzIHijNu-_daIfLqja9U5G0/edit'" type="button">Teams</button>
+<br>
+<button style="height:200px;width:200px" onclick="location.href='http://tuftsfaminehackathon.github.io/yemen2023/schedule'" type="button">Schedule</button>
+<br>
