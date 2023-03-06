@@ -23,6 +23,7 @@ navbar-links:
   Schedule: "schedule"
   Teams: "teams"
   Dataset: "dataset"
+  Tasks: "tasks"
   Venue: "venue"
   Contact: "contact"
   Previous Hackathons:
