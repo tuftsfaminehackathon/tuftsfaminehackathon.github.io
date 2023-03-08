@@ -9,7 +9,7 @@ title: Schedule
 
 ### Day 2: Hackathon session
 
-- 9-9:30 am: Coffee and reintroductions (Auditorium/Urdang 207)
+- 9-9:30 am: Coffee and reintroductions (JCC Auditorium/Urdang 207)
 - 9:30-10 am: Tips for hackathon success
 - 10 am-12 pm: Hacking groups
 - 12-1 pm: Working lunch
@@ -17,9 +17,9 @@ title: Schedule
 - 4 pm: Closing and next steps
 - 4-9 pm: Optional extra working time
 
-### Day 3: Presentations (JCC)
+### Day 3: Presentations
 
- - 9-9:30 am: Coffee (Auditorium/Urdang 207)
+ - 9-9:30 am: Coffee (JCC Auditorium/Urdang 207)
  - 9:30-11:30 am: Finalize presentations
  - 12-1 pm: Working lunch
  - 1 pm: Team presentations and closing remarks
