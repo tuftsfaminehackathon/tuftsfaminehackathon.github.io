@@ -11,7 +11,7 @@ title: Schedule
 
 - 9-9:30 am: Coffee and reintroductions (JCC 610)
 - 9:30-10 am: Tips for hackathon success
-  - [Presentation slides](https://tuftsfaminehackathon.github.io/slides/yemen/2023_h2d2.pdf)
+  - [Presentation slides](https://tuftsfaminehackathon.github.io/slides/yemen/2023_h2d2_slides.pdf)
 - 10 am-12 pm: Hacking groups
 - 12-1 pm: Working lunch
 - 1-4 pm: Hacking groups
